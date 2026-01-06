@@ -1,0 +1,11 @@
+.authContainer{
+  background-image:url(https://easy-peasy.ai/cdn-cgi/image/quality=95,format=auto,width=800/https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/5c62ab62-15ed-4407-b728-bffde3f55e3d.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  background-position: center;
+}
+.bgBlur{
+  backdrop-filter: blur(10px);
+}
