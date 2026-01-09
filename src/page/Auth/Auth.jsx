@@ -1,10 +1,9 @@
 import React from "react";
 import "./Auth.css";
-import { Section } from "lucide-react";
 import SignupForm from "./SignupForm";
 import { Button } from "@/components/ui/button";
 import { useLocation, useNavigate } from "react-router-dom";
-import ForgotPasswordForm from "./forgotPasswordForm";
+import ForgotPasswordForm from "./ForgotPasswordForm";
 import SigninForm from "./SigninForm";
 import VerifyOtpForm from "./VerifyOtpForm";
 import ResetPassword from "./ResetPassword";
