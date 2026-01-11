@@ -1,16 +1,14 @@
-# React + Vite
+# 🖥️ Viva Trading - Frontend (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, intuitive, and modern user interface for a cryptocurrency trading platform, featuring real-time market data visualization.
 
-Currently, two official plugins are available:
+## 🔗 Main Project Hub
+> **Note:** For the complete system architecture and backend API source code, please visit the **[Main Project Repository](https://github.com/Vivek80025/full_stack_crypto_trading_platform)**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technology Stack
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/ApexCharts-FCB900?style=for-the-badge&logo=apexcharts&logoColor=white" />
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Library:** React.js 
+- **Styling:** Tailwind CSS & shadcn/ui 
+- **Charts:** ApexCharts (for live market trends) 
+- **Market Data:** CoinGecko API Integration
